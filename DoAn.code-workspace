@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../From Dang Ky Co Ban/doan-chinhsua/DoAn"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Do An"
+	}
+}
